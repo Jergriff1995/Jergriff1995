@@ -1,20 +1,19 @@
 ![MasterHead](https://kntechpower.files.wordpress.com/2016/05/hi-tech-concepts-on-blue-background-header.jpg)
 <h1 align="center">👨‍💻 Hello World! 👨‍💻 Jeremy's GitHub Profile</h1>
 <h3 align="center">A Software Developer From Orlando Florida</h3>
-<img align="left" alt="Coding" width="400" src="https://i.gifer.com/M72Y.gif">
 <img align="right" alt="Coding" width="400" src="https://25.media.tumblr.com/06f89aef836216f4c6ac4d9c45764d1c/tumblr_mr37biphkT1rpnk51o1_400.gif">
 
 
 
 
 
-
+<p align="left">
 - 🌱 I’m currently learning **AWS, Python, Advanced Java**
 
 - 📫 How to reach me **Jergriff1995@gmail.com**
 
 - ⚡ Fun fact **I have been a musician for over a decade.**
-
+</p>
 
 
 
