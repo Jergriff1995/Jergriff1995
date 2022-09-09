@@ -16,7 +16,8 @@
 - ⚡ Fun fact **I have been a musician for over a decade.**
 
 
-<img align="right" alt="Coding" width="400" src="https://forum.xda-developers.com/proxy.php?image=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3ohc1cWNCpysjDzUxG%2Fgiphy.gif&hash=371b2d40936ecdc387d35bd54c3753a5">
+<img align="right" alt="Coding" width="400" src="https://makeagif.com/i/ZbsXMM">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
