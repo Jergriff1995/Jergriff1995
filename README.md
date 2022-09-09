@@ -1,7 +1,7 @@
 [![MasterHead](https://64.media.tumblr.com/607105d920405dc86a51e4250732b02d/f11ad0b7c8ee81ef-05/s1280x1920/eaa88b60b76401ac987fc8259ff51dd55bba09be.gifv)]
 <h1 align="center">👨‍💻 Hello World! 👨‍💻 Jeremy's GitHub Profile</h1>
 <h3 align="center">A Software Developer From Orlando Florida</h3>
-(img align="right" alt="Coding" width="400" src="https://25.media.tumblr.com/06f89aef836216f4c6ac4d9c45764d1c/tumblr_mr37biphkT1rpnk51o1_400.gif")
+<img align="right" alt="Coding" width="400" src="https://25.media.tumblr.com/06f89aef836216f4c6ac4d9c45764d1c/tumblr_mr37biphkT1rpnk51o1_400.gif"?
 
 - 🌱 I’m currently learning **AWS, Python, Advanced Java**
 
