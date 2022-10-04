@@ -4,9 +4,11 @@
 <h2 align="center">A Software Developer From Orlando Florida</h2>
 <img align="right" alt="Coding" width="400" src="https://25.media.tumblr.com/06f89aef836216f4c6ac4d9c45764d1c/tumblr_mr37biphkT1rpnk51o1_400.gif">
 
+<p>
     Hello and thank you for viewing my GitHub profile. My name is Jeremy Griffin and i am a software developer from Orlando, Florida.
  My journey began in 2020 when i decided to pursue a career in the tech industry. I love learning about all things computer science related.
  
+</p>
 
 
 
